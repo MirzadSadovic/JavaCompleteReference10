@@ -1,4 +1,4 @@
-package poglavlje17znakovninizovi.multithreading;
+package poglavlje18javalang.multithreading;
 
 //Ilustracije upotrebe grupa programskih niti
 
